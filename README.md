@@ -33,7 +33,8 @@
 
 
 
-Ref) A breif history of Objective C
+Ref) A breif history of Objective C by Robert C. Martin
+
 
 https://www.youtube.com/watch?v=fBHZ-k2zNoo
 
