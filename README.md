@@ -1,6 +1,3 @@
-# Objective_C
-
-
 # Swift vs Objective C
 
 1.  filename.swift vs filename.m and filename.h
