@@ -1,7 +1,7 @@
 # Object_C
 
 
-# Swift vs Object C
+# Swift vs Objective C
 
 1.  filename.swift vs filename.m and filename.h
 
@@ -28,5 +28,12 @@
 
 7. var propertynameimade: propertyname    vs @property propertyname propertynameimade;
 
+
+
+
+
+
+Ref) About Objective C
+https://www.youtube.com/watch?v=fBHZ-k2zNoo
 
 
