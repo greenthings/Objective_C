@@ -1,4 +1,4 @@
-### Swift vs Objective C
+# Swift vs Objective C
 
 1.  filename.swift vs filename.m and filename.h
 
@@ -26,7 +26,7 @@
 7. var propertynameimade: propertyname    vs @property propertyname propertynameimade;
 
 
-### Objective C
+# Objective C
 
 ```
 //preprocessor command, which tells a Objective-C compiler to include Foundation.h file before going to actual compilation.
@@ -59,15 +59,16 @@ int main() {
 The general form of a method definition in Objective-C programming language is as follows 
 
 ```
+- : Instance Method
 - (return_type) method_name:( argumentType1 )argumentName1 
 joiningArgument2:( argumentType2 )argumentName2 ... 
 joiningArgumentn:( argumentTypen )argumentNamen {
    body of the function
 }
 ```
-- : Instance Method
 
-# Example
+
+### Example
 
 ```
 /* function returning the max between two numbers */
