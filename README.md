@@ -27,7 +27,7 @@
 
 
 
-'''
+```
 //preprocessor command, which tells a Objective-C compiler to include Foundation.h file before going to actual compilation.
 #import <Foundation/Foundation.h>
 
@@ -51,7 +51,7 @@ int main() {
    return 0;
 }
 
-'''
+```
 
 
 
