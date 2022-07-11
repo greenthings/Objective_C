@@ -27,20 +27,7 @@
 
 
 
-
-
-
-Ref) A breif history of Objective C by Robert C. Martin
-
-
-https://www.youtube.com/watch?v=fBHZ-k2zNoo
-
-
-
-
-Ref) Objective C Tutorial
-https://www.tutorialspoint.com/objective_c/objective_c_program_structure.htm
-
+'''
 //preprocessor command, which tells a Objective-C compiler to include Foundation.h file before going to actual compilation.
 #import <Foundation/Foundation.h>
 
@@ -64,4 +51,12 @@ int main() {
    return 0;
 }
 
+'''
 
+
+
+Ref) A breif history of Objective C by Robert C. Martin
+https://www.youtube.com/watch?v=fBHZ-k2zNoo
+
+Ref) Objective C Tutorial
+https://www.tutorialspoint.com/objective_c/objective_c_program_structure.htm
