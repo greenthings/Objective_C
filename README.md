@@ -88,6 +88,25 @@ joiningArgumentn:( argumentTypen )argumentNamen {
 ```
 
 
+
+## In Xcode
+
+```
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+    NSString * appDelegateClassName;
+    // related in NSAutoreleasePool for memory management
+    @autoreleasepool {
+        // Setup code that might create autoreleased objects goes here.
+        appDelegateClassName = NSStringFromClass([AppDelegate class]);
+    }
+    return UIApplicationMain(argc, argv, nil, appDelegateClassName);
+}
+```
+
+
 Ref) A breif history of Objective C by Robert C. Martin
 https://www.youtube.com/watch?v=fBHZ-k2zNoo
 
