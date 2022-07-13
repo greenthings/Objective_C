@@ -112,7 +112,7 @@ int main(int argc, char * argv[]) {
 Static Vs Dynamic
 
 ```
-int         vs          id (similar with void *)
+int x;         vs          id y; (similar with void *)
 at Complie              at Run(Lazy Binding)
 
 ```
