@@ -107,6 +107,17 @@ int main(int argc, char * argv[]) {
 ```
 
 
+## Type
+
+Static Vs Dynamic
+
+```
+int         vs          id (similar with void *)
+at Complie              at Run(Lazy Binding)
+
+```
+
+
 Ref) A breif history of Objective C by Robert C. Martin
 https://www.youtube.com/watch?v=fBHZ-k2zNoo
 
