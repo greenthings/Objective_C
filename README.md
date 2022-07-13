@@ -118,6 +118,17 @@ at Complie              at Run(Lazy Binding)
 ```
 
 
+## Qualifier
+
+```
+long
+short
+const (Similar with let in swift language)
+unsigned (No negative)
+signed
+```
+
+
 Ref) A breif history of Objective C by Robert C. Martin
 https://www.youtube.com/watch?v=fBHZ-k2zNoo
 
