@@ -114,7 +114,6 @@ Static Vs Dynamic
 ```
 int x;         vs       id y; (similar with void *)
 at Complie              at Run(Lazy Binding)
-
 ```
 
 
@@ -128,13 +127,16 @@ unsigned (No negative)
 signed
 ```
 
-## Operator
+## Operators
 
 Obejective C vs Swift
 
 ```
 x++ or ++x   vs   x += 1 
 ```
+
+Ref) Format Specifiers
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html
 
 
 Ref) A breif history of Objective C by Robert C. Martin
