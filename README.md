@@ -134,7 +134,6 @@ Obejective C vs Swift
 
 ```
 x++ or ++x   vs   x += 1 
-
 ```
 
 
