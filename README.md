@@ -128,6 +128,15 @@ unsigned (No negative)
 signed
 ```
 
+## Operator
+
+Obejective C vs Swift
+
+```
+x++ or ++x   vs   x += 1 
+
+```
+
 
 Ref) A breif history of Objective C by Robert C. Martin
 https://www.youtube.com/watch?v=fBHZ-k2zNoo
