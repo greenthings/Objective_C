@@ -135,6 +135,17 @@ Obejective C vs Swift
 x++ or ++x   vs   x += 1 
 ```
 
+## While
+
+Objective C vs Swift
+
+```
+do{                         repeat{
+                                         
+ 
+} while(condition);         } while(condition)
+```
+
 Ref) Format Specifiers
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html
 
