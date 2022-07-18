@@ -146,6 +146,95 @@ do{                         repeat{
 } while(condition);         } while(condition)
 ```
 
+
+## Basic Function Style
+
+```
+C vs Objective C vs Swift
+
+Return_Type: RT
+Function_Name: FN
+Function_Type: FT
+Parameter_Name: PN
+Parameter_Type: PT
+
+C:
+
+RT FN(PT PN){
+ return Something;
+}
+
+ex)
+Int double(int x){
+   return (2*x); 
+}
+
+Objective C:
+
+-(RT) FN:(PT)PN{
+ return Something;
+}
+or
++(RT) FN:(PT)PN{
+ return Something;
+}
+
+ex) instance method
+
+-(int) double:(int)x{
+   return (2*x);
+}
+
++(int) double:(int)x{
+   return (2*x);
+}
+
+Swift:
+
+func FN(PN: PT) -> RT{
+ Something
+}
+
+ex)
+
+func double(x: Int) -> Int{
+ return 2*x
+}
+
+```
+
+
+
+
+## More Function Style
+
+```
+
+C:
+
+int add(int x, int y){
+  return (x+y);
+}
+
+
+Objective C:
+
+// 'and' is parameter label you can make, it could be 'with', 'second', 'andSecond', 'secParameter' and so on. 
+// It is up to you.
+-(int) add:(int)x and:(int)y{
+  return (x+y);
+}
+
+
+Swift:
+
+func add(Int: x, Int: y) -> Int{
+  return x+y
+}
+
+```
+
+
 Ref) Format Specifiers
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html
 
