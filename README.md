@@ -59,6 +59,7 @@ int main() {
 The general form of a method definition in Objective-C programming language is as follows 
 
 ```
++ : Class Method
 - : Instance Method
 - (return_type) method_name:( argumentType1 )argumentName1 
 joiningArgument2:( argumentType2 )argumentName2 ... 
