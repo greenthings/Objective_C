@@ -226,6 +226,13 @@ Objective C:
   return (x+y);
 }
 
+or
+
+-(int) addwithfirst:(int)x second:(int)y{
+  return (x+y);
+}
+
+
 
 Swift:
 
